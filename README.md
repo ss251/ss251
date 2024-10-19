@@ -28,7 +28,6 @@
 
 - Unlock the full potential of web3 social with onchain AI. Navigate web3 social, create engaging content, and manage your digital identity through intuitive, intent-based interactions.
 - [Live Demo](https://onboardagent.vercel.app/) | [Source Code](https://github.com/ss251/onboardagent)
-- 🏆 Bounties: Winner - Best On-Chain AI Agent Built with Galadriel
 
 ### 3. **[Agentverse](https://youtu.be/71fHGY_Jzso)**
 
@@ -38,6 +37,7 @@
 
 - Agentverse is a dApp for deploying and interacting with customizable on-chain AI Agent NFTs (AGNTs) powered by Galadriel.
 - [Live Demo](https://agentverse.vercel.app/) | [Source Code](https://github.com/ss251/agentverse)
+- 🏆 Bounties: Winner - Best On-Chain AI Agent Built with Galadriel
 
 ### 4. **[Bull Run](https://devpost.com/software/bull-run-h07qwt)**
 
