@@ -8,6 +8,8 @@
 - 🌐 Find me online: [saileshsivakumar.dev](https://saileshsivakumar.dev)  | [X](https://x.com/thescoho) | [Telegram](https://t.me/thescoho) | [ENS](https://app.ens.domains/thescoho.eth) | [Warpcast](https://warpcast.com/thescoho) | [Hey](https://hey.xyz/u/thescoho) | [Orb](https://orb.club/@thescoho) | [Base](https://www.base.org/name/thescoho)
 - 📧 Email: [contact@saileshsivakumar.dev](mailto\:contact@saileshsivakumar.dev)
 
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/username)
+
 ## Projects
 
 ### 1. **[Stat Frame](https://farhack.xyz/hackathons/farhack-kampung-2024/teams/59)**
