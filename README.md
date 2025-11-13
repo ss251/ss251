@@ -6,11 +6,20 @@
 
 - 🛠 Full Stack Developer building projects currently focused on web3 social, decentralized AI, and onboarding UX.
 - 🌐 Find me online: [saileshsivakumar.dev](https://saileshsivakumar.dev)  | [X](https://x.com/thescoho) | [Telegram](https://t.me/thescoho) | [ENS](https://app.ens.domains/thescoho.eth) | [Warpcast](https://warpcast.com/thescoho) | [Hey](https://hey.xyz/u/thescoho) | [Orb](https://orb.club/@thescoho) | [Base](https://www.base.org/name/thescoho)
-- 📧 Email: [contact@saileshsivakumar.dev](mailto\:contact@saileshsivakumar.dev)
+- 📧 Email: [contact@saileshsivakumar.dev](mailto:contact@saileshsivakumar.dev)
 
 [![Tip in Crypto](https://tip.md/badge.svg)](https://www.tip.md/ss251)
 
 ## Projects
+
+### 0. **[qrcoin.fun](https://qrcoin.fun) - Lead Developer (Mar 2025 - Present)**
+
+![qrcoin](https://qrcoin.fun/opgIMage.png)
+
+**Technologies:** Next.js, React, TypeScript, Wagmi, Viem, Ethers.js, Solidity, The Graph, Tailwind CSS, Privy, Farcaster SDK, Neynar, Worldcoin MiniKit, Supabase, Upstash, TanStack Query
+
+- [qrcoin.fun](https://qrcoin.fun) is a daily auction for attention. The winner of the daily auction decides where the QR points for a day. Users bid in USDC, and you can earn $QR every day by checking out the link of the day.
+- [Website](https://qrcoin.fun) | [Farcaster Mini App](https://farcaster.xyz/miniapps/cmHEZhAwO_dW/qr) | [World Mini App](https://world.org/mini-app?app_id=app_c0afa32e1f6b82efe67cadd0a7741a6a) | [Dune Dashboard](https://dune.com/qrcoin/qr) | [X](https://x.com/qrcoindotfun)
 
 ### 1. **[Stat Frame](https://farhack.xyz/hackathons/farhack-kampung-2024/teams/59)**
 
