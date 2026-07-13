@@ -1,110 +1,46 @@
-# 👋 hi, I'm Sailesh aka thescoho
+# Hi, I'm Sailesh 👋
 
-![ss251's Stats](https://github-readme-stats.vercel.app/api?username=ss251&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ss251's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ss251&theme=dark&hide_border=true)
+**Full-stack & onchain engineer** — lead engineer at [qrcoin.fun](https://qrcoin.fun); building local-first tools for agents on the side.
 
-## About Me
+[saileshsivakumar.dev](https://saileshsivakumar.dev) · [X](https://x.com/thescoho) · [Farcaster](https://farcaster.xyz/thescoho) · [contact@saileshsivakumar.dev](mailto:contact@saileshsivakumar.dev)
 
-- 🛠 Full Stack Developer building projects currently focused on the sufficiently decentralized social network ([farcaster.xyz](https://farcaster.xyz)).
-- 🌐 Find me online: [saileshsivakumar.dev](https://saileshsivakumar.dev)  | [X](https://x.com/thescoho) | [Telegram](https://t.me/thescoho) | [ENS](https://app.ens.domains/thescoho.eth) | [Warpcast](https://warpcast.com/thescoho) | [Hey](https://hey.xyz/u/thescoho) | [Orb](https://orb.club/@thescoho) | [Base](https://www.base.org/name/thescoho)
-- 📧 Email: [contact@saileshsivakumar.dev](mailto:contact@saileshsivakumar.dev)
+## Now
 
-[![Tip in Crypto](https://tip.md/badge.svg)](https://www.tip.md/ss251)
+- 🎯 **[qrcoin.fun](https://qrcoin.fun)** — a daily auction for attention on Base. Lead engineer since auction #2
+- 🪄 **[Magic Cabinet](https://demo.magiccabinetai.com)** — AI kitchen-design & quoting platform. Full-stack: web, Bun/Hono API, SwiftUI + BabylonNative iOS
+- ⛓️ **[The Chain](https://github.com/ss251/the-chain)** — a Devvit game where an entire subreddit shares one streak: one link a day, together, or the chain breaks for everyone
+- 🧾 **[Receipts](https://github.com/ss251/slack-hackathon-receipts)** — a Slack agent that surfaces past decisions with real quotes
 
-## Projects
+## Agent & Dev Tools
 
-### 0. **[qrcoin.fun](https://qrcoin.fun) - Lead Developer (Mar 2025 - Present)**
+- 🎛️ **[trifola](https://github.com/ss251/trifola)** — command center for your coding-agent fleet
+- 📸 **[instacrawl](https://github.com/ss251/instacrawl)** — archive & search your own Instagram locally (DMs, posts, reels, stories) into SQLite
+- 🖥️ **[TermGrid](https://github.com/ss251/TermGrid)** — one hotkey grids every terminal window, actively-working Claude Code sessions first
+- 🌐 **[web-autopilot](https://github.com/ss251/web-autopilot)** — natural-language browser agents on Browserbase + Stagehand
+- 📖 **[explore-jina](https://github.com/ss251/explore-jina)** — Jina Reader web scraper: concurrent single/multi-page crawling to clean Markdown
+- 🎓 **[claude-code-os](https://github.com/ss251/claude-code-os)** — free, open course rebuilding a Claude Code masterclass on native primitives
 
-![qrcoin](https://qrcoin.fun/opgIMage.png)
+## Agent Economy — agents that pay, and answer for it
 
-**Technologies:** Next.js, React, TypeScript, Wagmi, Viem, Ethers.js, Solidity, The Graph, Tailwind CSS, Privy, Farcaster SDK, Neynar, Worldcoin MiniKit, Supabase, Upstash, TanStack Query
+- 👷 **[foreman](https://github.com/ss251/foreman)** — orchestrator agent that hires, pays, and composes live okx.ai catalog agents over x402 — every verdict carries the tx hash that paid for it
+- 🔍 **[exploit-sentinel](https://github.com/ss251/exploit-sentinel)** — paid contract-risk proofs over x402: fork-simulated honeypot receipts + audits that cite the source line
+- ⚡ **[praxion](https://github.com/ss251/praxion)** — the safety layer between AI and capital: Chainlink DON consensus enforces trade constraints on-chain ([live](https://praxion.vercel.app))
+- 🚪 **[agentgate](https://github.com/ss251/agentgate)** — AI-agent payment gateway on Tempo: pay-per-call APIs with stablecoins via HTTP 402 ([live demo](https://gateway-production-aa5c.up.railway.app))
+- 🛡️ **[pulse](https://github.com/ss251/ethglobal-openagents)** — commit-reveal accountability for agent reasoning: sealed TEE commitments, slashing, atomic Uniswap v4 hook enforcement
+- ₿ **[btc-yield-vault](https://github.com/ss251/btc-yield-vault)** — ZK-constrained autonomous BTC agent on Starknet: every decision Pedersen-proven before it executes
+- 💬 **[khun](https://github.com/ss251/khun)** — Telegram bot that turns Thai service providers into x402-payable Solana agents in one message
 
-- [qrcoin.fun](https://qrcoin.fun) is a daily auction for attention. The winner of the daily auction decides where the QR points for a day. Users bid in USDC, and you can earn $QR every day by checking out the link of the day.
-- [Website](https://qrcoin.fun) | [Farcaster Mini App](https://farcaster.xyz/miniapps/cmHEZhAwO_dW/qr) | [World Mini App](https://world.org/mini-app?app_id=app_c0afa32e1f6b82efe67cadd0a7741a6a) | [Dune Dashboard](https://dune.com/qrcoin/qr) | [X](https://x.com/qrcoindotfun)
+## Onchain Builds
 
-### 1. **[Stat Frame](https://farhack.xyz/hackathons/farhack-kampung-2024/teams/59)**
+- 💰 **[rally](https://github.com/ss251/rally)** — conditional group money: one link, a group pot that pays out together or refunds everyone, automatically
+- 🚢 **[tradeguard](https://github.com/ss251/tradeguard-canton)** — private multilateral netting + atomic settlement for trade finance, live on Canton DevNet
+- 🔒 **[private-prediction-market](https://github.com/ss251/private-prediction-market)** — zero-knowledge prediction market on Aleo
+- 🪙 **[SolSplits](https://github.com/ss251/SolSplits)** — revenue-splitting protocol on Solana (Anchor)
 
-![farhack-frames-app-demo](https://github.com/user-attachments/assets/7ddc5706-a864-4c3e-a5b3-3b50a4819c4c)
+## Contributions
 
-**Technologies:** Next.js, Frog, FrogUI, Nanograph API, Lum0x SDK, Vercel, Farcaster, Neynar
+Merged PRs to projects I use daily:
 
-- Stat Frame is a Farcaster frame server designed to render detailed user analytics within Farcaster frames.
-- [Live Demo](https://warpcast.com/thescoho/0xf1d1006d) | [Source Code](https://github.com/ss251/farhack-frames-app)
-- 🏆 Bounties:  Winner - Best Use of Lum0x SDK, Winner - Best Use of Nanograph API
-
-### 2. **[OnboardAgent](https://ethglobal.com/showcase/onboardagent-p4sk8)**
-
-![onboardagent](https://ethglobal.b-cdn.net/projects/p4sk8/screenshots/8pnqw/default.jpg)
-
-**Technologies:** Ethers.js, Hardhat, IPFS, Solidity, WalletConnect, Web3Modal, Galadriel, TypeScript, Next.js, TailwindCSS, shadcn, Pinata, Lens, Farcaster, Goldrush API
-
-- Unlock the full potential of web3 social with onchain AI. Navigate web3 social, create engaging content, and manage your digital identity through intuitive, intent-based interactions.
-- [Live Demo](https://onboardagent.vercel.app/) | [Source Code](https://github.com/ss251/onboardagent)
-
-### 3. **[Agentverse](https://youtu.be/71fHGY_Jzso)**
-
-![agentverse](https://github.com/user-attachments/assets/31edffb1-a24e-4682-9432-dd3495e149f3)
-
-**Technologies:** Ethers.js, Hardhat, IPFS, Solidity, WalletConnect, Web3Modal, Galadriel, TypeScript, Python, Next.js, TailwindCSS, shadcn, Docker, ngrok
-
-- Agentverse is a dApp for deploying and interacting with customizable on-chain AI Agent NFTs (AGNTs) powered by Galadriel.
-- [Live Demo](https://agentverse.vercel.app/) | [Source Code](https://github.com/ss251/agentverse)
-- 🏆 Bounties: Winner - Best On-Chain AI Agent Built with Galadriel
-
-### 4. **[Bull Run](https://devpost.com/software/bull-run-h07qwt)**
-
-![bullrun](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/492/848/datas/gallery.jpg)
-
-**Technologies:** Unity, Next.js, Solidity, AWS EC2, Vercel, TailwindCSS, Figma, Paint 3D, Blender, Adobe Mixamo, Midjourney, MPC Live, Natural Reader Text to Speech
-
-- A massively multiplayer arcade-style runner game for mobile and desktop.
-- [Live Demo](https://w3bbie.xyz/bullrun/) | [Source Code](https://github.com/W3bbieLabs/bullrun-marketplace)
-
-### 5. **[Hack or Die](https://devpost.com/software/hack-or-die)**
-
-![image](https://github.com/user-attachments/assets/e7ced104-543e-42a5-9c30-16bce86b8b2f)
-
-**Technologies:** Unity, Figma, Next.js, TailwindCSS, Thirdweb UI Components, Thirdweb React SDK, Three.js, Framer Motion, Midjourney, ChatGPT, Ableton
-
-- A multiplayer co-op game where players band together to fend off endless waves of enemies in a bid for survival.
-- [Live Demo](http://w3bbie.xyz/hod) | [Source Code](https://github.com/W3bbieLabs/hack-or-die-w3bbie)
-- 🏆 Bounties: 1st Place - The Future of Gaming, Bonus - HardMode
-
-### 6. **[zkPay](https://ethglobal.com/showcase/zkpay-teavh)**
-
-![zkpay](https://ethglobal.b-cdn.net/projects/teavh/screenshots/r9e4v/default.jpg)
-
-**Technologies:** zkBob, Solidity, Hardhat, Ethers.js, Node.js, Next.js, TailwindCSS, Golang, StackOS, IPFS, The Graph, Polygon
-
-- Zero Knowledge Payment Gateway for a privacy-focused future.
-- [Live Demo](https://zkpay.in) | [Source Code](https://github.com/0xZkPay)
-- 🏆 Bounties: Best Use of zkBob, Valist Prize Pool, The Graph Pool Prize
-
-### 7. **[ZoraLand](https://ethglobal.com/showcase/zoraland-f54yo)**
-
-![zoraland](https://ethglobal.b-cdn.net/projects/f54yo/screenshots/cer8p/default.jpg)
-
-**Technologies:** Next.js, TailwindCSS, Polygon, Phaser, Solidity, Hardhat, Ethers.js, Thirdweb SDK
-
-- ZoraLand allows users to discover available tokens and collections on Zora through gaming.
-- [Live Demo](https://w3bbie.xyz/ethglobal/) | [Source Code](https://github.com/chris35469/ZoraLand)
-- 🏆 Bounties: Polygon - Best Use on Zora V3 on Polygon, nft.storage - Storage Wizard
-
-### 8. **[AIRNFT](https://devpost.com/software/ins)**
-
-![airnft](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/992/604/datas/gallery.jpg)
-
-**Technologies:** Ethers.js, Filecoin, Chainlink, Hardhat, IPFS, Moralis, Next.js, React, Solidity, TailwindCSS, Web3.Storage, Web3UIKit
-
-- AIRNFT is an interactive NFT service that aids creators in bringing interactive NFTs to the market.
-- [Live Demo](https://chainlink-s22.vercel.app/) | [Source Code](https://github.com/EyeRunnMan/ChainlinkS22)
-- 🏆 Bounties: Filecoin - Runners Up
-
-### 9. **[SuprArms](https://ethglobal.com/showcase/suprarms-7xz9r)**
-
-![suprarms](https://github.com/user-attachments/assets/c209faf2-4f7c-4be7-9484-88db39e39771)
-
-**Technologies:** Ethers.js, Filecoin, Chainlink, Hardhat, IPFS, Moralis, Next.js, React, Three.js, Solidity, TailwindCSS, Web3.Storage, Web3UIKit
-
-- A 3D multiplayer FPS Metaverse with 8400+ unique gun NFTs, each with distinguished looks and stats. Mint your own SuprArm and battle out your teammates in our sci-fi space arena.
-- [Live Demo](https://suprarms.vercel.app/) | [Source Code](https://github.com/gabrielantonyxaviour/ETHGlobal-BuildQuest)
-- 🏆 Bounties: Best 3D Metaverse Game Built on Polygon, Best Dapp Using Moralis, Best Use of Chainlink
+- **[CodexBar](https://github.com/steipete/CodexBar)** ×4 — stranded-menu-scroll restore, account-switch history isolation, PAYG credit balance, UTC reset parsing
+- **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — mouse button as a recording trigger
+- **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — fee-on-transfer token accounting fix (Breadchain)
