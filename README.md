@@ -8,12 +8,11 @@
 
 - 🎯 **[qrcoin.fun](https://qrcoin.fun)** — a daily auction for attention on Base. Lead engineer since auction #2
 - 🪄 **[Magic Cabinet](https://demo.magiccabinetai.com)** — AI kitchen-design & quoting platform. Full-stack: web, Bun/Hono API, SwiftUI + BabylonNative iOS
-- ⛓️ **[The Chain](https://github.com/ss251/the-chain)** — a Devvit game where an entire subreddit shares one streak: one link a day, together, or the chain breaks for everyone
-- 🧾 **[Receipts](https://github.com/ss251/slack-hackathon-receipts)** — a Slack agent that surfaces past decisions with real quotes
 
 ## Agent & Dev Tools
 
 - 🎛️ **[trifola](https://github.com/ss251/trifola)** — command center for your coding-agent fleet
+- 🧾 **[Receipts](https://github.com/ss251/slack-hackathon-receipts)** — a Slack agent that surfaces past decisions with real quotes
 - 📸 **[instacrawl](https://github.com/ss251/instacrawl)** — archive & search your own Instagram locally (DMs, posts, reels, stories) into SQLite
 - 🖥️ **[TermGrid](https://github.com/ss251/TermGrid)** — one hotkey grids every terminal window, actively-working Claude Code sessions first
 - 🌐 **[web-autopilot](https://github.com/ss251/web-autopilot)** — natural-language browser agents on Browserbase + Stagehand
@@ -37,9 +36,11 @@
 - 🔒 **[private-prediction-market](https://github.com/ss251/private-prediction-market)** — zero-knowledge prediction market on Aleo
 - 🪙 **[SolSplits](https://github.com/ss251/SolSplits)** — revenue-splitting protocol on Solana (Anchor)
 
-## Contributions
+## Games
 
-Merged PRs to projects I use daily:
+- ⛓️ **[The Chain](https://github.com/ss251/the-chain)** — a Devvit game where an entire subreddit shares one streak: one link a day, together, or the chain breaks for everyone
+
+## Contributions
 
 - **[CodexBar](https://github.com/steipete/CodexBar)** ×4 — stranded-menu-scroll restore, account-switch history isolation, PAYG credit balance, UTC reset parsing
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — mouse button as a recording trigger
