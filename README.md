@@ -42,6 +42,6 @@
 
 ## Contributions
 
-- **[CodexBar](https://github.com/steipete/CodexBar)** ×4 — stranded-menu-scroll restore, account-switch history isolation, PAYG credit balance, UTC reset parsing
-- **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — mouse button as a recording trigger
-- **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — fee-on-transfer token accounting fix (Breadchain)
+- **[CodexBar](https://github.com/steipete/CodexBar)** — [#2048](https://github.com/steipete/CodexBar/pull/2048) menu-scroll restore · [#1903](https://github.com/steipete/CodexBar/pull/1903) account-switch history isolation · [#1825](https://github.com/steipete/CodexBar/pull/1825) PAYG credit balance · [#1827](https://github.com/steipete/CodexBar/pull/1827) UTC reset parsing
+- **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — [#167](https://github.com/Starmel/OpenSuperWhisper/pull/167) mouse button as a recording trigger
+- **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — [#188](https://github.com/BreadchainCoop/solidarity-fund/pull/188) fee-on-transfer token accounting fix (Breadchain)
