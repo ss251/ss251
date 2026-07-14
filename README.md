@@ -7,7 +7,7 @@
 ## Now
 
 - 🎯 **[qrcoin.fun](https://qrcoin.fun)** — a daily auction for attention on Base. Lead engineer since auction #2
-- 🪄 **[Magic Cabinet](https://demo.magiccabinetai.com)** — AI kitchen-design & quoting platform. Full-stack: web, Bun/Hono API, SwiftUI + BabylonNative iOS
+- 🪄 **[Magic Cabinet](https://app.magiccabinetai.com)** — AI kitchen-design & quoting platform. Full-stack: web, Bun/Hono API, SwiftUI + BabylonNative iOS
 
 ## Agent & Dev Tools
 
