@@ -42,7 +42,7 @@
 
 ## Contributions
 
-- **[CodexBar](https://github.com/steipete/CodexBar)** — [#2048](https://github.com/steipete/CodexBar/pull/2048) menu-scroll restore · [#1903](https://github.com/steipete/CodexBar/pull/1903) account-switch history isolation · [#1825](https://github.com/steipete/CodexBar/pull/1825) PAYG credit balance · [#1827](https://github.com/steipete/CodexBar/pull/1827) UTC reset parsing
+- **[CodexBar](https://github.com/steipete/CodexBar)** — [#2167](https://github.com/steipete/CodexBar/pull/2167) duplicate menu-bar items fix · [#2048](https://github.com/steipete/CodexBar/pull/2048) menu-scroll restore · [#1903](https://github.com/steipete/CodexBar/pull/1903) account-switch history isolation · [#1825](https://github.com/steipete/CodexBar/pull/1825) PAYG credit balance · [#1827](https://github.com/steipete/CodexBar/pull/1827) UTC reset parsing
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — [#167](https://github.com/Starmel/OpenSuperWhisper/pull/167) mouse button as a recording trigger
 - **[monad-mip-lab](https://github.com/Cortex-XYZ/monad-mip-lab)** — [#18](https://github.com/Cortex-XYZ/monad-mip-lab/pull/18) label and cite each claim in the MIP-4 semantics review (Cortex)
 - **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — [#188](https://github.com/BreadchainCoop/solidarity-fund/pull/188) fee-on-transfer token accounting fix (Breadchain)
