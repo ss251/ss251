@@ -42,7 +42,7 @@
 
 ## Contributions
 
-- **[gbrain](https://github.com/garrytan/gbrain)** — [#2950](https://github.com/garrytan/gbrain/pull/2950) remote-ping job-status polling fix — pings observed completion again (Garry Tan’s open-source company brain)
+- **[gbrain](https://github.com/garrytan/gbrain)** — [#2951](https://github.com/garrytan/gbrain/pull/2951) thin-client scratch-database fix · [#2950](https://github.com/garrytan/gbrain/pull/2950) remote-ping job-status polling fix (Garry Tan’s open-source company brain)
 - **[CodexBar](https://github.com/steipete/CodexBar)** — [#2167](https://github.com/steipete/CodexBar/pull/2167) duplicate menu-bar items fix · [#2048](https://github.com/steipete/CodexBar/pull/2048) menu-scroll restore · [#1903](https://github.com/steipete/CodexBar/pull/1903) account-switch history isolation · [#1825](https://github.com/steipete/CodexBar/pull/1825) PAYG credit balance · [#1827](https://github.com/steipete/CodexBar/pull/1827) UTC reset parsing
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — [#167](https://github.com/Starmel/OpenSuperWhisper/pull/167) mouse button as a recording trigger
 - **[monad-mip-lab](https://github.com/Cortex-XYZ/monad-mip-lab)** — [#18](https://github.com/Cortex-XYZ/monad-mip-lab/pull/18) label and cite each claim in the MIP-4 semantics review (Cortex)
