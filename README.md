@@ -48,3 +48,15 @@
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — [#167](https://github.com/Starmel/OpenSuperWhisper/pull/167) mouse button as a recording trigger
 - **[monad-mip-lab](https://github.com/Cortex-XYZ/monad-mip-lab)** — [#18](https://github.com/Cortex-XYZ/monad-mip-lab/pull/18) label and cite each claim in the MIP-4 semantics review (Cortex)
 - **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — [#188](https://github.com/BreadchainCoop/solidarity-fund/pull/188) fee-on-transfer token accounting fix (Breadchain)
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2026-08-03T03:35:52.662722Z",
+  "wallets": [
+    {
+      "chain": "solana",
+      "address": "8UeRuQdqVCVwxERmajGkLon92Y8Ax3oJbDZQPGENzJkf"
+    }
+  ]
+}
+WALLET-LINKING-END -->
