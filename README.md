@@ -51,7 +51,7 @@
 
 <!-- WALLET-LINKING-BEGIN
 {
-  "lastUpdated": "2026-08-03T03:35:52.662722Z",
+  "lastUpdated": "2026-08-03T03:35:52.662Z",
   "wallets": [
     {
       "chain": "solana",
