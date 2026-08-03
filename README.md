@@ -42,6 +42,7 @@
 
 ## Contributions
 
+- **[eliza](https://github.com/elizaOS/eliza)** — [#17601](https://github.com/elizaOS/eliza/pull/17601) fork-upload evidence validation fix · [#17575](https://github.com/elizaOS/eliza/pull/17575) fail-open runner-pruner fix (elizaOS)
 - **[gbrain](https://github.com/garrytan/gbrain)** — [#3027](https://github.com/garrytan/gbrain/pull/3027) thin-client job-timestamp rehydration fix · [#2951](https://github.com/garrytan/gbrain/pull/2951) thin-client scratch-database fix · [#2950](https://github.com/garrytan/gbrain/pull/2950) remote-ping job-status polling fix (Garry Tan’s open-source company brain)
 - **[CodexBar](https://github.com/steipete/CodexBar)** — [#2441](https://github.com/steipete/CodexBar/pull/2441) Claude keychain test isolation · [#2167](https://github.com/steipete/CodexBar/pull/2167) duplicate menu-bar items fix · [#2048](https://github.com/steipete/CodexBar/pull/2048) menu-scroll restore · [#1903](https://github.com/steipete/CodexBar/pull/1903) account-switch history isolation · [#1825](https://github.com/steipete/CodexBar/pull/1825) PAYG credit balance · [#1827](https://github.com/steipete/CodexBar/pull/1827) UTC reset parsing
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — [#167](https://github.com/Starmel/OpenSuperWhisper/pull/167) mouse button as a recording trigger
