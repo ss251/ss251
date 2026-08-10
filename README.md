@@ -42,6 +42,7 @@
 
 ## Contributions
 
+- **[army](https://github.com/elizaOS/army)** — [#5](https://github.com/elizaOS/army/pull/5) attribution footer validation scoped to the terminal block (elizaOS)
 - **[wacrawl](https://github.com/openclaw/wacrawl)** — [#62](https://github.com/openclaw/wacrawl/pull/62) macOS scheduled-imports guide: the TCC prompt loop + least-privilege Full Disk Access setup (OpenClaw)
 - **[eliza](https://github.com/elizaOS/eliza)** — [#17959](https://github.com/elizaOS/eliza/pull/17959) Bun-contract NUL map-key escaping fix · [#17606](https://github.com/elizaOS/eliza/pull/17606) i18n source-catalog restore + CI gate · [#17599](https://github.com/elizaOS/eliza/pull/17599) unified Bun runtime pin across CI · [#17749](https://github.com/elizaOS/eliza/pull/17749) Discord shutdown drain + reaction reconcile · [#17943](https://github.com/elizaOS/eliza/pull/17943) attribution-row colon parsing fix · [#17604](https://github.com/elizaOS/eliza/pull/17604) composeState waiter cancellation boundary · [#17613](https://github.com/elizaOS/eliza/pull/17613) evidence-row footer insertion fix · [#17601](https://github.com/elizaOS/eliza/pull/17601) fork-upload evidence validation fix · [#17575](https://github.com/elizaOS/eliza/pull/17575) fail-open runner-pruner fix (elizaOS)
 - **[gbrain](https://github.com/garrytan/gbrain)** — [#3027](https://github.com/garrytan/gbrain/pull/3027) thin-client job-timestamp rehydration fix · [#2951](https://github.com/garrytan/gbrain/pull/2951) thin-client scratch-database fix · [#2950](https://github.com/garrytan/gbrain/pull/2950) remote-ping job-status polling fix (Garry Tan’s open-source company brain)
@@ -49,6 +50,7 @@
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** — [#167](https://github.com/Starmel/OpenSuperWhisper/pull/167) mouse button as a recording trigger
 - **[monad-mip-lab](https://github.com/Cortex-XYZ/monad-mip-lab)** — [#18](https://github.com/Cortex-XYZ/monad-mip-lab/pull/18) label and cite each claim in the MIP-4 semantics review (Cortex)
 - **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — [#188](https://github.com/BreadchainCoop/solidarity-fund/pull/188) fee-on-transfer token accounting fix (Breadchain)
+- **[welcome](https://github.com/AleoNet/welcome)** — [#123](https://github.com/AleoNet/welcome/pull/123) broken devnet guide link fix (AleoNet)
 
 <!-- WALLET-LINKING-BEGIN
 {
