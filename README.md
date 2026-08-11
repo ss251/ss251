@@ -52,14 +52,4 @@
 - **[solidarity-fund](https://github.com/BreadchainCoop/solidarity-fund)** — [#188](https://github.com/BreadchainCoop/solidarity-fund/pull/188) fee-on-transfer token accounting fix (Breadchain)
 - **[welcome](https://github.com/AleoNet/welcome)** — [#123](https://github.com/AleoNet/welcome/pull/123) broken devnet guide link fix (AleoNet)
 
-<!-- WALLET-LINKING-BEGIN
-{
-  "lastUpdated": "2026-08-03T03:35:52.662Z",
-  "wallets": [
-    {
-      "chain": "solana",
-      "address": "8UeRuQdqVCVwxERmajGkLon92Y8Ax3oJbDZQPGENzJkf"
-    }
-  ]
-}
-WALLET-LINKING-END -->
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"8UeRuQdqVCVwxERmajGkLon92Y8Ax3oJbDZQPGENzJkf"} -->
